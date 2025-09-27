@@ -13,7 +13,7 @@
         <options>
           <option name="title_enabled" value="false">
             <options>
-              <option name="title_text" value="scorm_testing" />
+              <option name="title_text" value="published_output" />
             </options>
           </option>
           <option name="logo_enabled" value="false">
